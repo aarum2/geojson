@@ -1,0 +1,1 @@
+I have developed a python program which works with the google maps api 'http://maps.googleapis.com/maps/api/geocode/json?' as a part of Python for Everybody course. This simple program will take the address as input and will look for the Corresponding latitude and longitude, and return them.
